@@ -1,0 +1,15 @@
+@import "tailwindcss";
+
+@theme {
+  --font-sans: "Source Sans 3", ui-sans-serif, system-ui, sans-serif;
+  --font-display: "Outfit", ui-sans-serif, system-ui, sans-serif;
+
+  --color-cream: #f5f5f0;
+  --color-ink: #2a2d27;
+  --color-muted: #6b7066;
+  --color-olive: #4a5d45;
+  --color-olive-dark: #3a4a36;
+  --color-sage: #e4ebe0;
+  --color-line: #dddcd4;
+  --color-footer: #1f221e;
+}
